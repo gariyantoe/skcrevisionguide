@@ -1,0 +1,2 @@
+# skcrevisionguide
+for skc study
